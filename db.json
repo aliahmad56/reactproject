@@ -1,0 +1,39 @@
+{
+  "users": [
+    {
+      "id": 1,
+      "email": "ali@gmail.com",
+      "password": "123"
+    },
+    {
+      "name": "King",
+      "email": "king@gmail.com",
+      "password": "1234566",
+      "id": 7
+    },
+    {
+      "name": "testing",
+      "email": "testing@gmail.com",
+      "password": "123",
+      "id": 17
+    },
+    {
+      "email": "ali@gmail.com",
+      "password": "123",
+      "id": 18
+    },
+    {
+      "email": "ali@gmail.com",
+      "password": "123",
+      "id": 19
+    }
+  ],
+  "restaurant": [
+    {
+      "name": "Parata",
+      "location": "Lahore",
+      "number": "111222233",
+      "id": 2
+    }
+  ]
+}
